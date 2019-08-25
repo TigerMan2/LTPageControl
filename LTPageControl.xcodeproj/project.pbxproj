@@ -7,6 +7,19 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		AA2943102312649900E1DA40 /* LTExampleDotView.m in Sources */ = {isa = PBXBuildFile; fileRef = AA29430F2312649900E1DA40 /* LTExampleDotView.m */; };
+		AA29431E2312681400E1DA40 /* dotActive@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA2943122312681300E1DA40 /* dotActive@2x.png */; };
+		AA29431F2312681400E1DA40 /* image4.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA2943132312681300E1DA40 /* image4.jpg */; };
+		AA2943202312681400E1DA40 /* dotInactive@2x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA2943142312681300E1DA40 /* dotInactive@2x.png */; };
+		AA2943212312681400E1DA40 /* dotInactive@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA2943152312681300E1DA40 /* dotInactive@3x.png */; };
+		AA2943222312681400E1DA40 /* image3.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA2943162312681300E1DA40 /* image3.jpg */; };
+		AA2943232312681400E1DA40 /* dotInactive.png in Resources */ = {isa = PBXBuildFile; fileRef = AA2943172312681300E1DA40 /* dotInactive.png */; };
+		AA2943242312681400E1DA40 /* dotActive@3x.png in Resources */ = {isa = PBXBuildFile; fileRef = AA2943182312681300E1DA40 /* dotActive@3x.png */; };
+		AA2943252312681400E1DA40 /* image5.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA2943192312681400E1DA40 /* image5.jpg */; };
+		AA2943262312681400E1DA40 /* dotActive.png in Resources */ = {isa = PBXBuildFile; fileRef = AA29431A2312681400E1DA40 /* dotActive.png */; };
+		AA2943272312681400E1DA40 /* image6.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA29431B2312681400E1DA40 /* image6.jpg */; };
+		AA2943282312681400E1DA40 /* image1.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA29431C2312681400E1DA40 /* image1.jpg */; };
+		AA2943292312681400E1DA40 /* image2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = AA29431D2312681400E1DA40 /* image2.jpg */; };
 		AAF21C51230D454D00850C7C /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = AAF21C50230D454D00850C7C /* AppDelegate.m */; };
 		AAF21C54230D454D00850C7C /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = AAF21C53230D454D00850C7C /* ViewController.m */; };
 		AAF21C57230D454D00850C7C /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = AAF21C55230D454D00850C7C /* Main.storyboard */; };
@@ -39,6 +52,20 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		AA29430E2312649900E1DA40 /* LTExampleDotView.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LTExampleDotView.h; sourceTree = "<group>"; };
+		AA29430F2312649900E1DA40 /* LTExampleDotView.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = LTExampleDotView.m; sourceTree = "<group>"; };
+		AA2943122312681300E1DA40 /* dotActive@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dotActive@2x.png"; sourceTree = "<group>"; };
+		AA2943132312681300E1DA40 /* image4.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image4.jpg; sourceTree = "<group>"; };
+		AA2943142312681300E1DA40 /* dotInactive@2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dotInactive@2x.png"; sourceTree = "<group>"; };
+		AA2943152312681300E1DA40 /* dotInactive@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dotInactive@3x.png"; sourceTree = "<group>"; };
+		AA2943162312681300E1DA40 /* image3.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image3.jpg; sourceTree = "<group>"; };
+		AA2943172312681300E1DA40 /* dotInactive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dotInactive.png; sourceTree = "<group>"; };
+		AA2943182312681300E1DA40 /* dotActive@3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "dotActive@3x.png"; sourceTree = "<group>"; };
+		AA2943192312681400E1DA40 /* image5.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image5.jpg; sourceTree = "<group>"; };
+		AA29431A2312681400E1DA40 /* dotActive.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = dotActive.png; sourceTree = "<group>"; };
+		AA29431B2312681400E1DA40 /* image6.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image6.jpg; sourceTree = "<group>"; };
+		AA29431C2312681400E1DA40 /* image1.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image1.jpg; sourceTree = "<group>"; };
+		AA29431D2312681400E1DA40 /* image2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = image2.jpg; sourceTree = "<group>"; };
 		AAF21C4C230D454D00850C7C /* LTPageControl.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = LTPageControl.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		AAF21C4F230D454D00850C7C /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
 		AAF21C50230D454D00850C7C /* AppDelegate.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = AppDelegate.m; sourceTree = "<group>"; };
@@ -90,6 +117,25 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		AA294311231267FA00E1DA40 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				AA29431A2312681400E1DA40 /* dotActive.png */,
+				AA2943122312681300E1DA40 /* dotActive@2x.png */,
+				AA2943182312681300E1DA40 /* dotActive@3x.png */,
+				AA2943172312681300E1DA40 /* dotInactive.png */,
+				AA2943142312681300E1DA40 /* dotInactive@2x.png */,
+				AA2943152312681300E1DA40 /* dotInactive@3x.png */,
+				AA29431C2312681400E1DA40 /* image1.jpg */,
+				AA29431D2312681400E1DA40 /* image2.jpg */,
+				AA2943162312681300E1DA40 /* image3.jpg */,
+				AA2943132312681300E1DA40 /* image4.jpg */,
+				AA2943192312681400E1DA40 /* image5.jpg */,
+				AA29431B2312681400E1DA40 /* image6.jpg */,
+			);
+			path = Resources;
+			sourceTree = "<group>";
+		};
 		AAF21C43230D454D00850C7C = {
 			isa = PBXGroup;
 			children = (
@@ -113,11 +159,14 @@
 		AAF21C4E230D454D00850C7C /* LTPageControl */ = {
 			isa = PBXGroup;
 			children = (
+				AA294311231267FA00E1DA40 /* Resources */,
 				AAF21C81230D457700850C7C /* PageControl */,
 				AAF21C4F230D454D00850C7C /* AppDelegate.h */,
 				AAF21C50230D454D00850C7C /* AppDelegate.m */,
 				AAF21C52230D454D00850C7C /* ViewController.h */,
 				AAF21C53230D454D00850C7C /* ViewController.m */,
+				AA29430E2312649900E1DA40 /* LTExampleDotView.h */,
+				AA29430F2312649900E1DA40 /* LTExampleDotView.m */,
 				AAF21C55230D454D00850C7C /* Main.storyboard */,
 				AAF21C58230D454E00850C7C /* Assets.xcassets */,
 				AAF21C5A230D454E00850C7C /* LaunchScreen.storyboard */,
@@ -263,9 +312,21 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				AA29431E2312681400E1DA40 /* dotActive@2x.png in Resources */,
+				AA2943292312681400E1DA40 /* image2.jpg in Resources */,
+				AA2943242312681400E1DA40 /* dotActive@3x.png in Resources */,
+				AA29431F2312681400E1DA40 /* image4.jpg in Resources */,
+				AA2943262312681400E1DA40 /* dotActive.png in Resources */,
 				AAF21C5C230D454E00850C7C /* LaunchScreen.storyboard in Resources */,
 				AAF21C59230D454E00850C7C /* Assets.xcassets in Resources */,
+				AA2943212312681400E1DA40 /* dotInactive@3x.png in Resources */,
+				AA2943282312681400E1DA40 /* image1.jpg in Resources */,
 				AAF21C57230D454D00850C7C /* Main.storyboard in Resources */,
+				AA2943272312681400E1DA40 /* image6.jpg in Resources */,
+				AA2943252312681400E1DA40 /* image5.jpg in Resources */,
+				AA2943202312681400E1DA40 /* dotInactive@2x.png in Resources */,
+				AA2943222312681400E1DA40 /* image3.jpg in Resources */,
+				AA2943232312681400E1DA40 /* dotInactive.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +354,7 @@
 				AAF21C84230D459D00850C7C /* LTPageControl.m in Sources */,
 				AAF21C54230D454D00850C7C /* ViewController.m in Sources */,
 				AAF21C5F230D454E00850C7C /* main.m in Sources */,
+				AA2943102312649900E1DA40 /* LTExampleDotView.m in Sources */,
 				AAF21C87230D45E800850C7C /* LTBaseDotView.m in Sources */,
 				AAF21C8D230D460F00850C7C /* LTAnimatedDotView.m in Sources */,
 				AAF21C8A230D45FC00850C7C /* LTDotView.m in Sources */,
